@@ -1,3 +1,2 @@
-name: Gearoid O'Connor
-markdown: redcarpet
+name: Prathap Jai Krishna
 exclude: ["node_modules", "gulpfile.js", "package.json"]

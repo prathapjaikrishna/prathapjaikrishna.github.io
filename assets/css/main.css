@@ -598,7 +598,7 @@ h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_sm
   .logo {
     height: 70px;
     width: 70px;
-    background: url(../img/GOC1.png) center center;
+    background: url(../img/logo.png) center center;
     background-size: 70px 47px;
     background-repeat: no-repeat;
     position: fixed;
@@ -607,7 +607,8 @@ h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_sm
     padding-right: 5px;
     padding-bottom: 10px;
     margin-bottom: 10px;
-    z-index: 888; }
+    z-index: 888;
+    }
   a.back-to-top {
     display: none;
     width: 40px;
@@ -628,7 +629,7 @@ h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_sm
   .logo {
     height: 90px;
     width: 90px;
-    background: url(../img/GOC1.png) center center;
+    background: url(../img/logo.png) center center;
     width: 88px;
     height: 47px;
     background-size: 88px 47px;
@@ -738,7 +739,7 @@ footer {
       display: flex;
       margin: auto;
       border-radius: 60%;
-      background: url(../img/face.JPG) no-repeat; }
+      background: url(../img/face.jpg) no-repeat; }
     .about-lock .face1-img {
       height: 180px;
       width: 180px;
